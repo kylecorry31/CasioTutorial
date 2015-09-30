@@ -1,0 +1,35 @@
+.page-content {
+  padding: 16px;
+}
+.section {
+  max-width: 1024px;
+  margin: auto;
+  margin-top: 64px;
+}
+.tut {
+  padding-bottom: 24px;
+  padding-top: 4px;
+  padding-left: 64px;
+  padding-right: 64px;
+}
+code {
+  color: #424242;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+hr {
+  padding: 0;
+  margin: 0;
+  border-color: #E0E0E0;
+}
+.item {
+  text-decoration: none;
+  padding: 24px;
+  padding-left: 64px;
+  font-size: 24px;
+}
+.item:hover {
+  background-color: #F5F5F5;
+}
